@@ -1,0 +1,17 @@
+.container {
+  margin: 2em;
+  cursor: pointer;
+  user-select: none;
+  max-width: 300px;
+}
+
+.portal {
+  position: relative;
+  max-width: 300px;
+  margin: 2em;
+}
+
+.portalContent {
+  background-color: #e5e8eb;
+  user-select: none;
+}
